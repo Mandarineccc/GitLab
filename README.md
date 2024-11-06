@@ -26,7 +26,7 @@
 
 `Приведите ответ в свободной форме........`
 
-1. [ссылку] https://github.com/Mandarineccc/gitlab/blob/main/dz1.png
+1. [ссылка](https://github.com/Mandarineccc/gitlab/blob/main/dz1.png)
 2. `Заполните здесь этапы выполнения, если требуется ....`
 3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
@@ -51,8 +51,8 @@
 
 `Приведите ответ в свободной форме........`
 
-1. [ссылку] https://github.com/Mandarineccc/gitlab/blob/main/dz2.png
-2. [ссылку] https://github.com/Mandarineccc/gitlab/blob/main/dz2.2.png
+1. [ссылка](https://github.com/Mandarineccc/gitlab/blob/main/dz2.png)
+2. [ссылка](https://github.com/Mandarineccc/gitlab/blob/main/dz2.2.png)
 3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
 5. `Заполните здесь этапы выполнения, если требуется ....`
